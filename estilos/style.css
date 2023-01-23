@@ -16,6 +16,7 @@ body{
     background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
+    margin: 0px;
 }
 
 main{
@@ -34,17 +35,17 @@ section#telefone{
 }
 #tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 269px;
-    height: 471px;
+    top: 71px;
+    left: 13px;
+    width: 277px;
+    height: 481px;
 }
 #social {
     text-align: right;
 }
 #social img{
-    width: 50px;
-    margin: 10px;
+    width: 55px;
+    margin: 0px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479);
 
